@@ -16,7 +16,7 @@
 ## Basic Commands
 
 - `git status` shows files added, deleted or modified in the working directory.
-- `git add [file_name | '.' for all files in the folder]` adds files to the staging area. [should be done after finishing work in the file](https://youtu.be/rE2zRhZdjFU?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&t=264)
+- `git add [file_name | '.' for all files in the folder]` adds files to the staging area. [Should be done after finishing work in the file](https://youtu.be/rE2zRhZdjFU?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&t=264)
 - `git commit -m "commit message"` this along with `git add` helps track changes and store them.
 - `git clone` is used to get a local copy of a repository.
 - `git checkout -b [update_name]` creates a new branch and switches to it.
